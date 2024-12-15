@@ -8,28 +8,17 @@ redirect_from:
 ---
 
 <style>
-  html {
-    font-size: small !important;
-  }
-  
-  .archive {
+  /* Only target the main content area of the CV, not the navigation */
+  #main .page__content {
     font-size: 0.8em !important;
   }
-
-  .archive .page__content,
-  .archive .page__content p,
-  .archive .page__content div,
-  .archive .page__content li {
-    font-size: 0.8em !important;
-    -webkit-text-size-adjust: 100% !important;
-  }
   
-  .archive .page__content h1 {
+  #main .page__content h1 {
     font-size: 1.3em !important;
     margin-top: 1em;
   }
 
-  .archive .page__content ul {
+  #main .page__content ul {
     font-size: 0.9em !important;
   }
 </style>
