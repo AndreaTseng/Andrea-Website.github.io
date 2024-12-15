@@ -7,6 +7,21 @@ redirect_from:
   - /resume
 ---
 
+<style>
+  .page__content {
+    font-size: 0.8em;  /* Adjust this value to make text smaller */
+  }
+  
+  .page__content h1 {
+    font-size: 1.3em;  /* Adjust this value to make headers smaller */
+    margin-top: 1em;
+  }
+
+  .page__content ul {
+    font-size: 0.9em;  /* Adjust this value for list items */
+  }
+</style>
+
 {% include base_path %}
 
 # Education
