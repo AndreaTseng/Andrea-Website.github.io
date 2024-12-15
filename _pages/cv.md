@@ -8,28 +8,29 @@ redirect_from:
 ---
 
 <style>
-  /* Target the specific layout class along with page content */
-  .archive .page__content,
-  .archive .page__content p,
-  .archive .page__content div {
-    font-size: 0.7em !important;
+  html {
+    font-size: small !important;
   }
   
-  /* Target headers specifically */
-  .archive .page__content h1,
-  .archive .page__content h2 {
-    font-size: 1.2em !important;
+  .archive {
+    font-size: 0.8em !important;
   }
 
-  /* Target lists more specifically */
-  .archive .page__content ul,
-  .archive .page__content ul li {
-    font-size: 0.7em !important;
+  .archive .page__content,
+  .archive .page__content p,
+  .archive .page__content div,
+  .archive .page__content li {
+    font-size: 0.8em !important;
+    -webkit-text-size-adjust: 100% !important;
+  }
+  
+  .archive .page__content h1 {
+    font-size: 1.3em !important;
+    margin-top: 1em;
   }
 
-  /* Target nested lists */
-  .archive .page__content ul ul li {
-    font-size: 1em !important;  /* Keep same size as parent since it inherits */
+  .archive .page__content ul {
+    font-size: 0.9em !important;
   }
 </style>
 
