@@ -9,56 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- B.S. in University of Wisconsin - Madison, 2025
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Professional experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Full Stack Mobile Application Developer, IPM at UW-Madison
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  - Developed PVY Predictor using WeatherBit API and Maps SDK to help farmers forecast the risk of potatoes virus, resulting in a cost reduction in paraffinic oil usage for Wisconsin farmers.
+  - Launched updated apps on Google Play, achieving an increase in downloads by transitioning from SQLite to Room database and implementing an alert system for high PVY risk.
+
+- Backend Developer, Department of Education, UW-Madison
+  - Used Python to develop and manage tasks within Gorilla Experiment Builder for psychological experiments.
+
+# Teaching
+
+- Volunteer Java Teacher, Microsoft TEALS Program
+- Peer Mentor, CS300
+
+# Related Work
+
+- Reviewer for Workshop for Women in Machine Learning, NeurIPS 2024
+- Reviewer for Workshop CoLoRAI, AAAI 2025
+- Wisconsin AI Safety Initiative, Technical Team
