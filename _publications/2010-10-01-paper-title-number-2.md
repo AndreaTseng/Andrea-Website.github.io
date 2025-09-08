@@ -1,5 +1,5 @@
 ---
-title: "Test-Time Privacy Requires Going Beyond Certified Machine Unlearning"
+title: "Inducing Uncertainty for Test-Time Privacy"
 collection: publications
 category: manuscripts
 # permalink: /publication/2010-10-01-paper-title-number-2
