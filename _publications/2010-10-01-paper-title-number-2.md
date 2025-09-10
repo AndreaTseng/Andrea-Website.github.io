@@ -8,5 +8,5 @@ date: 2025-01-01
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: "Muhammad H. Ashiq, Peter Triantafillou, Hung Yun Tseng, Grigorios Chrysos"
+citation: "Muhammad H. Ashiq, [Peter Triantafillou](https://warwick.ac.uk/fac/sci/dcs/people/peter_triantafillou/), Hung Yun Tseng, Grigorios Chrysos"
 ---
