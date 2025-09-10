@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student at UW-Madison, where I work with Prof Grioris Chrysos on trustworthy machine learning. 
+I am a first year Ph.D. student at UW-Madison, where I work with [Prof Grigoris Chrysos](https://grigorisg9gr.github.io/_pages/about/) on trustworthy machine learning. 
 
 At the moment, my interests in ML involve the following:
 
